@@ -21,7 +21,7 @@
     line-height: 1.6;
     margin-bottom: 28px;
   ">
-    uhhhh i think import { createRoot } from 'react-dom/client'
+    uhhhh i think import { createRoot } from 'react-dom/client' xd
   </p>
 
   <!-- Image -->
