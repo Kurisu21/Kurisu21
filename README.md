@@ -21,7 +21,7 @@
     line-height: 1.6;
     margin-bottom: 28px;
   ">
-    A personal space for creativity, focus, and inspiration — where I reset and recharge.
+    uhhhh i think import { createRoot } from 'react-dom/client'
   </p>
 
   <!-- Image -->
