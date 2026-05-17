@@ -2,7 +2,7 @@
 
   <!-- Heading -->
   <h1 align="center" style="border-bottom: none;">
-    <samp>👋 Hi, I'm Ismael Jose Jumao-as</samp>
+    <samp>👋 Hi, I'm Ismael Jumao-as</samp>
   </h1>
 
   <!-- Animated GIF -->
