@@ -1,9 +1,11 @@
 <div align="center">
 
+  <!-- Heading -->
   <h1 align="center" style="border-bottom: none;">
     <samp>👋 Hi, I'm Ismael Jose Jumao-as</samp>
   </h1>
 
+  <!-- Animated GIF -->
   <img 
     src="https://github.com/IsmaelJumaoas01/IsmaelJumaoas01/blob/main/ichika.gif?raw=true" 
     alt="Calm and inspiration"
@@ -14,14 +16,16 @@
   <br />
   <br />
 
+  <!-- Subtitle / Tagline -->
   <p align="center">
     <strong>Software Developer & Tech Enthusiast</strong><br />
     Building modern web applications, exploring cloud ecosystems, and designing intelligent systems.
   </p>
 
+  <!-- Quick Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Location-Cebu%20City,%20PH-00dbde?style=flat-square" alt="Location">
-    <img src="https://img.shields.io/badge/Status-Student%20@%20UC%20Main-fc00ff?style=flat-square" alt="Status">
+    <img src="https://img.shields.io/badge/Status-4th%20Year%20Student-fc00ff?style=flat-square" alt="Status">
   </p>
 
 </div>
