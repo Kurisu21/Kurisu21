@@ -51,6 +51,9 @@ I am a 4th-year Information Technology student at the University of Cebu, focusi
   <strong>WeBeenThere</strong> lowers the barrier to digital entry by giving creators and local businesses the power to generate, customize, and deploy professional websites seamlessly using AI—much like Wix, but optimized for the local ecosystem.
 </p>
 
+> [!NOTE]  
+> **Status:** The live link is accessible to view the frontend interface; however, the active backend server and database services are currently spun down.
+
 👉 **Check out the live platform here:** [webeenthere.onrender.com](https://webeenthere.onrender.com/)
 
 ---
