@@ -18,21 +18,31 @@
 
   <!-- Subtitle / Tagline -->
   <p align="center">
-    <strong>Software Developer & Tech Enthusiast</strong><br />
+    <strong>Software Developer, Salesforce Specialist & Tech Enthusiast</strong><br />
     Building modern web applications, exploring cloud ecosystems, and designing intelligent systems.
   </p>
 
   <!-- Quick Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Location-Cebu%20City,%20PH-00dbde?style=flat-square" alt="Location">
-    <img src="https://img.shields.io/badge/Status-4th%20Year%20Student-fc00ff?style=flat-square" alt="Status">
+    <img src="https://img.shields.io/badge/Status-4th%20Year%20IT%20Student%20@%20UC-fc00ff?style=flat-square" alt="Status">
   </p>
 
 </div>
 
 ---
 
-## 🚀 Featured Capstone Project
+## 🚀 About Me
+
+I am a 4th-year Information Technology student at the University of Cebu, focusing on full-stack web development and cloud ecosystems. Alongside modern JavaScript and PHP frameworks, I am deeply knowledgeable in **Salesforce Administration and Development (Apex/LWC)**, blending enterprise platform capabilities with custom engineering solutions.
+
+*   🔭 **Current Focus:** Scaling AI-driven software and optimizing enterprise workflows.
+*   🌱 **Learning:** Advanced Salesforce architecture and LLM orchestration.
+*   💬 **Ask me about:** Salesforce development, building visual AI workflows, and why `createRoot` is essential.
+
+---
+
+## 💻 Featured Capstone Project
 
 ### 🌐 **[WeBeenThere](https://webeenthere.onrender.com/)**
 > *An AI-powered Website Builder tailored for Filipino content creators, entrepreneurs, and small business owners.*
@@ -56,17 +66,24 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
 </p>
 
-### Backend & Runtimes
+### Backend, Runtimes & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/ElysiaJS-000000?style=for-the-badge&logo=elysia&logoColor=white" alt="ElysiaJS">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
-### Enterprise, Cloud & Tools
+### Enterprise CRM & AI Automation
 <p align="left">
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce">
+  <img src="https://img.shields.io/badge/Salesforce_Admin-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Admin">
+  <img src="https://img.shields.io/badge/Salesforce_Dev_(Apex%2FLWC)-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Dev">
+  <img src="https://img.shields.io/badge/Flowise_AI-1E1E24?style=for-the-badge" alt="Flowise">
+</p>
+
+### Tools & Infrastructure
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
