@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- Heading -->
   <h1 align="center" style="border-bottom: none;">
     <samp>👋 Hi, I'm Ismael Jose Jumao-as</samp>
   </h1>
 
-  <!-- Animated GIF -->
   <img 
     src="https://github.com/IsmaelJumaoas01/IsmaelJumaoas01/blob/main/ichika.gif?raw=true" 
     alt="Calm and inspiration"
@@ -16,13 +14,11 @@
   <br />
   <br />
 
-  <!-- Subtitle / Tagline -->
   <p align="center">
     <strong>Software Developer & Tech Enthusiast</strong><br />
-    Building modern web applications, exploring cloud ecosystems, and diving into intelligent systems.
+    Building modern web applications, exploring cloud ecosystems, and designing intelligent systems.
   </p>
 
-  <!-- Quick Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Location-Cebu%20City,%20PH-00dbde?style=flat-square" alt="Location">
     <img src="https://img.shields.io/badge/Status-Student%20@%20UC%20Main-fc00ff?style=flat-square" alt="Status">
@@ -32,13 +28,16 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Featured Capstone Project
 
-I am a technical lead and developer who loves transforming complex problems into clean, scalable code. Whether it's crafting responsive frontends, managing cloud environments, or engineering custom backend solutions, I thrive on continuous learning and architectural precision.
+### 🌐 **[WeBeenThere](https://webeenthere.onrender.com/)**
+> *An AI-powered Website Builder tailored for Filipino content creators, entrepreneurs, and small business owners.*
 
-*   🔭 **Current Focus:** Advanced frontend architectures and scalable cloud solutions.
-*   🌱 **Learning:** Deepening my expertise in enterprise ecosystem integrations and automation.
-*   💬 **Ask me about:** React, Salesforce development (Apex/LWC), and why `createRoot` is essential.
+<p align="left">
+  <strong>WeBeenThere</strong> lowers the barrier to digital entry by giving creators and local businesses the power to generate, customize, and deploy professional websites seamlessly using AI—much like Wix, but optimized for the local ecosystem.
+</p>
+
+👉 **Check out the live platform here:** [webeenthere.onrender.com](https://webeenthere.onrender.com/)
 
 ---
 
@@ -53,15 +52,17 @@ I am a technical lead and developer who loves transforming complex problems into
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
 </p>
 
-### Backend, Data & Cloud
+### Backend & Runtimes
 <p align="left">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/ElysiaJS-000000?style=for-the-badge&logo=elysia&logoColor=white" alt="ElysiaJS">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce">
-  <img src="https://img.shields.io/badge/Apex%20%2F%20LWC-00A1E0?style=for-the-badge" alt="Apex LWC">
 </p>
 
-### Tools & Infrastructure
+### Enterprise, Cloud & Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
