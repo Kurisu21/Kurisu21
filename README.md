@@ -32,7 +32,7 @@
 
 ## 🚀 About Me
 
-I am a 4th-year Information Technology student, focusing on full-stack web development and cloud ecosystems. Alongside modern JavaScript and PHP frameworks, I am deeply knowledgeable in **Salesforce Administration and Development (Apex/LWC)**, blending enterprise platform capabilities with custom engineering solutions.
+I am a Information Technology graduate, focusing on full-stack web development and cloud ecosystems. Alongside modern JavaScript and PHP frameworks, I am deeply knowledgeable in **Salesforce Administration and Development (Apex/LWC)**, blending enterprise platform capabilities with custom engineering solutions.
 
 *   🔭 **Current Focus:** Scaling AI-driven software and optimizing enterprise workflows.
 *   🌱 **Learning:** Advanced Salesforce architecture and LLM orchestration.
