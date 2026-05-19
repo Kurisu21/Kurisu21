@@ -34,7 +34,7 @@
 
 ## 🚀 About Me
 
-I am an Information Technology graduate specializing in full-stack web development and cloud ecosystems. Alongside modern JavaScript, PHP, and .NET frameworks, I am deeply knowledgeable in **Salesforce Administration and Development (Apex/LWC)**, blending enterprise platform capabilities with custom engineering solutions.
+I am an Information Technology graduate specializing in full-stack web development and cloud ecosystems. Alongside modern JavaScript, PHP, and ASP.NET architectures, I am deeply knowledgeable in **Salesforce Administration and Development (Apex/LWC)**, blending enterprise platform capabilities with custom engineering solutions.
 
 *   🔭 **Current Focus:** Scaling AI-driven software and optimizing enterprise workflows.
 *   🌱 **Learning:** Advanced Salesforce architecture and LLM orchestration.
@@ -80,9 +80,9 @@ I am an Information Technology graduate specializing in full-stack web developme
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
-### .NET Ecosystem
+### C# / Microsoft Ecosystem
 <p align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
 </p>
 
