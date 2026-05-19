@@ -25,22 +25,24 @@
   <!-- Quick Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Location-Cebu%20City,%20PH-00dbde?style=flat-square" alt="Location">
-    <img src="https://img.shields.io/badge/Status-IT%20%20Graduate-fc00ff?style=flat-square" alt="Status">  </p>
+    <img src="https://img.shields.io/badge/Status-IT%20Graduate-fc00ff?style=flat-square" alt="Status">
+  </p>
+
 </div>
 
 ---
 
-##  About Me
+## 🚀 About Me
 
-I am an Information Technology graduate, focusing on full-stack web development and cloud ecosystems. Alongside modern JavaScript and PHP frameworks, I am deeply knowledgeable in **Salesforce Administration and Development (Apex/LWC)**, blending enterprise platform capabilities with custom engineering solutions.
+I am an Information Technology graduate specializing in full-stack web development and cloud ecosystems. Alongside modern JavaScript, PHP, and .NET frameworks, I am deeply knowledgeable in **Salesforce Administration and Development (Apex/LWC)**, blending enterprise platform capabilities with custom engineering solutions.
 
-*    **Current Focus:** Scaling AI-driven software and optimizing enterprise workflows.
-*    **Learning:** Advanced Salesforce architecture and LLM orchestration.
-*    **Ask me about:** Salesforce development, building visual AI workflows, and why `createRoot` is essential.
+*   🔭 **Current Focus:** Scaling AI-driven software and optimizing enterprise workflows.
+*   🌱 **Learning:** Advanced Salesforce architecture and LLM orchestration.
+*   💬 **Ask me about:** Salesforce development, building visual AI workflows, and why `createRoot` is essential.
 
 ---
 
-##  Featured Capstone Project
+## 💻 Featured Capstone Project
 
 ### 🌐 **[WeBeenThere](https://webeenthere.onrender.com/)**
 > *An AI-powered Website Builder tailored for Filipino content creators, entrepreneurs, and small business owners.*
@@ -52,28 +54,36 @@ I am an Information Technology graduate, focusing on full-stack web development 
 > [!NOTE]  
 > **Status:** The live link is accessible to view the frontend interface; however, the active backend server and database services are currently spun down.
 
- **Check out the live platform here:** [webeenthere.onrender.com](https://webeenthere.onrender.com/)
+👉 **Check out the live platform here:** [webeenthere.onrender.com](https://webeenthere.onrender.com/)
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend & Design
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
 </p>
 
-### Backend, Runtimes & Databases
+### Backend, Runtimes & Frameworks
 <p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/ElysiaJS-000000?style=for-the-badge&logo=elysia&logoColor=white" alt="ElysiaJS">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+### .NET Ecosystem
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
 </p>
 
 ### Enterprise CRM & AI Automation
