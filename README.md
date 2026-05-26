@@ -32,19 +32,19 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am an Information Technology graduate specializing in full-stack web development and cloud ecosystems. Alongside modern JavaScript, PHP, and ASP.NET architectures, I am deeply knowledgeable in **Salesforce Administration and Development (Apex/LWC)**, blending enterprise platform capabilities with custom engineering solutions.
 
-*   🔭 **Current Focus:** Scaling AI-driven software and optimizing enterprise workflows.
-*   🌱 **Learning:** Advanced Salesforce architecture and LLM orchestration.
-*   💬 **Ask me about:** Salesforce development, building visual AI workflows, and why `createRoot` is essential.
+*    **Current Focus:** Scaling AI-driven software and optimizing enterprise workflows.
+*    **Learning:** Advanced Salesforce architecture and LLM orchestration.
+*    **Ask me about:** Salesforce development, building visual AI workflows, and why `createRoot` is essential.
 
 ---
 
-## 💻 Featured Capstone Project
+##  Featured Capstone Project
 
-### 🌐 **[WeBeenThere](https://webeenthere.onrender.com/)**
+###  **[WeBeenThere](https://webeenthere.onrender.com/)**
 > *An AI-powered Website Builder tailored for Filipino content creators, entrepreneurs, and small business owners.*
 
 <p align="left">
@@ -54,11 +54,11 @@ I am an Information Technology graduate specializing in full-stack web developme
 > [!NOTE]  
 > **Status:** The live link is accessible to view the frontend interface; however, the active backend server and database services are currently spun down.
 
-👉 **Check out the live platform here:** [webeenthere.onrender.com](https://webeenthere.onrender.com/)
+ **Check out the live platform here:** [webeenthere.onrender.com](https://webeenthere.onrender.com/)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend & Design
 <p align="left">
