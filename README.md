@@ -25,7 +25,7 @@
   <!-- Quick Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Location-Cebu%20City,%20PH-00dbde?style=flat-square" alt="Location">
-    <img src="https://img.shields.io/badge/Status-IT%20Graduate-fc00ff?style=flat-square" alt="Status">
+    <img src="https://img.shields.io/badge/Status-Full%20-%20Time%20Employed-fc00ff?style=flat-square" alt="Status">
   </p>
 
 </div>
