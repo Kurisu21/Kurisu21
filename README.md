@@ -19,7 +19,7 @@
   <!-- Subtitle / Tagline -->
   <p align="center">
     <strong>Software Developer, Salesforce Specialist & Tech Enthusiast</strong><br />
-    Building modern web applications, exploring cloud ecosystems, and designing intelligent systems. Currently working as Packaged App Developer ( Salesforce )
+    Building modern web applications, exploring cloud ecosystems, and designing intelligent systems. Currently working as Packaged App Developer ( Salesforce ).
   </p>
 
   <!-- Quick Badges -->
