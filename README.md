@@ -2,7 +2,7 @@
 
   <!-- Heading -->
   <h1 align="center" style="border-bottom: none;">
-    <samp>👋 Hi </samp>
+    <samp> </samp>
   </h1>
 
  <!-- 
