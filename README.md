@@ -5,14 +5,14 @@
     <samp>👋 Hi </samp>
   </h1>
 
-  <!-- Animated GIF -->
+ <!-- 
   <img 
     src="https://github.com/IsmaelJumaoas01/IsmaelJumaoas01/blob/main/ichika.gif?raw=true" 
     alt="Calm and inspiration"
     width="340"
     style="border: 2px solid #30363d; border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,0.5);"
   />
-
+-->
   <br />
   <br />
 
