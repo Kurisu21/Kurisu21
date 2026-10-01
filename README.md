@@ -2,7 +2,7 @@
 
   <!-- Heading -->
   <h1 align="center" style="border-bottom: none;">
-    <samp> Henlo, Ismael Jose Jumao-as </samp>
+    <samp> Henlo, I'm Ismael Jose Jumao-as </samp>
   </h1>
 
  <!-- --> 
