@@ -2,7 +2,7 @@
 
   <!-- Heading -->
   <h1 align="center" style="border-bottom: none;">
-    <samp> Henlo </samp>
+    <samp> Henlo, Ismael Jose Jumao-as </samp>
   </h1>
 
  <!-- --> 
